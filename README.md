@@ -3,7 +3,7 @@
 
 > 👩‍🎓 **Author:** Rashmi Katariya  
 > 🎓 **Institution:** Department of Electronics and Communication Engineering, DU Pune / DIAT Pune  
-
+> 🔍 **Journal Publication:** [Analysis of Linear and Non-Linear Relationships Between sEMG and Finger Kinematics](https://www.worldscientific.com/doi/10.1142/S0219519424500453)
 
 ---
 
