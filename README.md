@@ -3,7 +3,7 @@
 
 > 👩‍🎓 **Author:** Rashmi Katariya  
 > 🎓 **Institution:** Department of Electronics and Communication Engineering, DU Pune / DIAT Pune  
-> 👨‍🏫 **Supervisor:** Dr. Rishi Raj Sharma
+
 
 ---
 
