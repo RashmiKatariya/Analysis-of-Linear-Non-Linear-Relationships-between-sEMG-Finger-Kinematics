@@ -1,7 +1,6 @@
 
 # 🧠 Analysis of Linear and Non-Linear Relationships Between sEMG and Finger Kinematics
 
-> 📌 *M.Tech Thesis – Phase I Submission*  
 > 👩‍🎓 **Author:** Rashmi Katariya  
 > 🎓 **Institution:** Department of Electronics and Communication Engineering, DU Pune / DIAT Pune  
 > 👨‍🏫 **Supervisor:** Dr. Rishi Raj Sharma
@@ -36,6 +35,9 @@ Goal: Determine which method gives better **R² score** and **lower RMSE** with 
 ---
 
 ## 📦 Dataset Description
+
+![image](https://github.com/user-attachments/assets/22cae348-c397-46f9-918e-523737a7af49)
+
 
 - **sEMG**: 8-channel from extrinsic muscles  
 - **Kinematics**: 3D data from 23 markers → 69-dimensional space  
@@ -85,17 +87,9 @@ Each subject has:
 ### 📈 Visual Results
 
 #### Subject-wise R² Score and RMSE Comparison  
-![R² and RMSE Graph](images/r2_rmse_comparison.png)
+![image](https://github.com/user-attachments/assets/509c121b-7e90-4f90-8e99-036aa02af9cf)
 
-#### Task-wise R² and RMSE Tables  
-![Task-wise Results](images/taskwise_results.png)
 
-#### Cross-Validation Performance  
-![Cross-validation](images/cross_validation.png)
-
-> ℹ️ *Images shown are sample outputs. Actual visuals should be placed in the `images/` folder.*
-
----
 
 ## ✅ Conclusion
 
